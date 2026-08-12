@@ -60,7 +60,7 @@ Raw Data ➔ Train/Test Split ➔ StandardScaler ➔ KNeighborsClassifier ➔ Pr
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/muhammadfarhanmrs/iris-knn-pipeline.git
+   git clone https://github.com/Farhanillahiclass/iris-knn-pipeline.git
    cd iris-knn-pipeline
    ```
 
