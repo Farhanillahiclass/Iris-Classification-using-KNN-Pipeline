@@ -61,7 +61,7 @@ Raw Data ➔ Train/Test Split ➔ StandardScaler ➔ KNeighborsClassifier ➔ Pr
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Farhanillahiclass/Iris-Classification-using-KNN-Pipeline.git
-   cd iris-knn-pipeline
+   cd Iris-Classification-using-KNN-Pipeline
    ```
 
 2. **Set Up Virtual Environment (Optional but Recommended):**
